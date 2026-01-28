@@ -1,0 +1,4 @@
+__pycache__/
+stego_image.png
+*.pyc
+.env
